@@ -10,6 +10,6 @@
     username: "user2",
     password: "password2",
 
-    email: "testuser@gmail.com",
-    username: "user3",
-    password: "password3",
+    email: "user@gmail.com",
+    username: "user",
+    password: "password",
